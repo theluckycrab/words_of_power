@@ -1,0 +1,1 @@
+pandoc -s -o words_of_power.pdf rulebook.md
